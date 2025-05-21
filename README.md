@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: MANOJKUMAR K</h3>
+<h3>Register Number:212224040188<h3>
 
 
 <h3>AIM:</h3>
@@ -40,7 +40,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-PROGRAM CODE
+
+## PROGRAM CODE
 ```
 import random
 import time
@@ -211,10 +212,9 @@ environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
 ```
-OUTPUT
-
+## OUTPUT
 ![306551446-b55274ad-c94b-4cb0-9a6f-d4295be7b350](https://github.com/user-attachments/assets/6e78c916-29ca-45aa-ac26-df0f89975105)
 
-RESULT
+## RESULT
 Thus, an AI agent is developed using python program.
 
